@@ -2,7 +2,7 @@
 
 ## TDP
 
-![](./static/tdp_logo.png)
+![](https://raw.githubusercontent.com/TOSIT-IO/.github/master/profile/static/tdp_logo.png)
 
 Trunk Data Platform (TDP) is an Open Source, free, Hadoop distribution.
 
