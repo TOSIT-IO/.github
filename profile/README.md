@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.trunkdataplatform.io/en/discover">Discover</a> • <a href="https://www.trunkdataplatform.io/en/learn">Docs</a> • <a href="https://www.trunkdataplatform.io/en/learn/getting-started">Getting started</a> • <a href="https://www.trunkdataplatform.io/">www</a>
+  <a href="https://www.trunkdataplatform.io/en/discover">Discover</a> • <a href="https://www.trunkdataplatform.io/en/learn">Docs</a> • <a href="https://www.trunkdataplatform.io/">www</a>
 </p>
 <p align="center">
   Driven by <a href="https://tosit.io">TOSIT</a>
